@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fakelogin/static/css/main.56b1d16f.css",
+    "main.js": "/fakelogin/static/js/main.173e78b5.js",
+    "index.html": "/fakelogin/index.html",
+    "main.56b1d16f.css.map": "/fakelogin/static/css/main.56b1d16f.css.map",
+    "main.173e78b5.js.map": "/fakelogin/static/js/main.173e78b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56b1d16f.css",
+    "static/js/main.173e78b5.js"
+  ]
+}
